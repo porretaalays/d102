@@ -19,4 +19,11 @@ nav a{
     text-decoration: none;
     
 }
+header{
+
+    background-image: url("imagens/kages_orig.jpg");
+    background-size: cover;
+    height: 400px;
+    
+}
 
