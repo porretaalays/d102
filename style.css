@@ -27,3 +27,31 @@ header{
     
 }
 
+section{ background-color: #b0946b;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+div{
+    text-align: center;
+    width: 40%;
+}
+h2{
+    font-family:'VT323', monospace;
+    font-size: 30pt;
+}
+div ul{
+    list-style-type: none;
+    list-style-image: url("imagens/ninja.png");
+}
+
+ul li:nth-child(even){
+    color: white;
+}
+
+/*p, h2{
+    color: lawngreen;
+}
+*/
